@@ -1,6 +1,8 @@
-<img src="img/banner.gif" width=800>
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Isadora&fontSize=60&desc=Engenheira%20de%20Software&fontAlignY=30&color=4a4329&descAlignY=50&descAlign=60&fontColor=ccba98"/>
+    <img src="img/banner.gif" width=800>
+</p>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&width=800&height=200&text=Isadora&fontSize=60&desc=Engenheira%20de%20Software&fontAlignY=30&color=4a4329&descAlignY=50&descAlign=60&fontColor=ccba98"/>
 </p>
 
 <p align='center'>
@@ -52,5 +54,6 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=isadorameneghetti&bg_color=ffffff00&title_color=ccba98&text_color=ccba98&border_color=ccba98&locale=pt-br">
+
 <img align="right" src="img/bunny.png" width="200 " height="200" />
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=4a4329"/>
