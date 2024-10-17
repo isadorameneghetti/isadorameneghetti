@@ -54,7 +54,7 @@
 <br>
 <br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;" align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=isadorameneghetti&bg_color=ffffff00&title_color=ccba98&text_color=ccba98&border_color=ccba98&locale=pt-br" style="margin-right: 20px;">
     <img src="img/bunny.png" width="200" height="200">
 </div>
