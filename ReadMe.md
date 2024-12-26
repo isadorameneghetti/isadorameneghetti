@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=fff&color=ccba98">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=fff&color=ccba98">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=fff&color=ccba98">
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=fff&color=ccba98">
 </p>
 
 <h2 align="center"> Desenvolvimento em BackEnd</h2>
@@ -38,6 +39,7 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=fff&color=ccba98">
 <img src="https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=fff&color=ccba98">
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=fff&color=ccba98">
 </p>
 
 <h2 align="center"> Outros</h2>
