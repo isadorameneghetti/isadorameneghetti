@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=9F947F&center=true&vCenter=true&width=435&lines=Oi!+Prazer%2C+sou+a+Isa.;Moro+em+S%C3%A3o+Paulo%2C+Brasil.;Sou+programadora+fullstack+;e+tenho+18+anos+%F0%9F%A4%8D" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=9F947F&center=true&vCenter=true&width=435&lines=Oi!+Prazer%2C+sou+a+Isa.;Moro+em+S%C3%A3o+Paulo%2C+Brasil.;Sou+programadora+fullstack+;e+tenho+19+anos+%F0%9F%A4%8D" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center"> Desenvolvimento em FrontEnd </h2>
