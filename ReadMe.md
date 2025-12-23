@@ -53,7 +53,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/isadora-meneghetti-4834b42b8/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/isadora-meneghetti/" target="blank"><img align="center" src="img/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://wa.me/qr/4K2PRXMT6RLJM1" target="blank"><img align="center" src="img/whatsapp.png" alt="whatsapp" height="30" width="30" /></a>
 </p>
 
