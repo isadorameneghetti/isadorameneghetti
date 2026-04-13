@@ -110,16 +110,6 @@ Atuar em posição de estágio ou nível júnior na área de Inteligência Artif
 
 ---
 
-### GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isadorameneghetti&show_icons=true&theme=radical&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117&border_color=8b5cf6"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorameneghetti&layout=compact&theme=radical&title_color=8b5cf6&text_color=ffffff&bg_color=0d1117&border_color=8b5cf6"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=isadorameneghetti&theme=radical&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af&background=0d1117&border=8b5cf6"/>
-</p>
-
----
-
 ### Contribution Snake
 
 <picture>
